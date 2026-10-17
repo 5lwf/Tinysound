@@ -2,6 +2,10 @@
 
 A lightweight Windows desktop music app for SoundCloud, Spotify, and YouTube Music, built with Rust and Microsoft WebView2.
 
+## Download
+
+[Download Tinysound for Windows](https://github.com/5lwf/Tinysound/releases/latest). Extract the ZIP and run tinysound.exe, keeping the extensions folder beside it.
+
 ## Features
 
 - Three music services in one window
